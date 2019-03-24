@@ -7,6 +7,9 @@ Git commands.
 2. git add - adding a file to gitHub
 3. git commit -m "adding advanced JS file"
 4. git push - pushing the new file
+5. git branch - showing all the braches e.g master
+6. git branch testbranch - create new branch
+6. git checkout testbranch - open the new branch
 
 
 More about the course. Skills to be learn from the course
