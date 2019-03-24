@@ -10,6 +10,7 @@ Git commands.
 5. git branch - showing all the braches e.g master
 6. git branch testbranch - create new branch
 6. git checkout testbranch - open the new branch
+7. git merge - merges content in different brances.
 
 
 More about the course. Skills to be learn from the course
