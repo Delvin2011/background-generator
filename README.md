@@ -12,6 +12,8 @@ Git commands.
 6. git checkout testbranch - open the new branch
 7. git merge - merges content in different brances.
 
+Something to read on.
+https://www.quora.com/What-is-bash_profile-and-what-is-its-use
 
 More about the course. Skills to be learn from the course
 1. contribute on open source projects (use of github).
