@@ -2,12 +2,14 @@
 
 1 2 1 2 Testing GitHub. Feeling excited.
 
-git status - checking the available files in GitHb
-git add - adding a file to gitHub
-git commit -m "adding advanced JS file"
-git push - pushing the new file
+Git commands.
+1. git status - checking the available files in GitHb
+2. git add - adding a file to gitHub
+3. git commit -m "adding advanced JS file"
+4. git push - pushing the new file
 
 
+More about the course. Skills to be learn from the course
 1. contribute on open source projects (use of github).
 
 2. how to deploy our frontend, backend code on heroku.
